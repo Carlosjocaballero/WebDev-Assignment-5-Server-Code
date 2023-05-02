@@ -16,6 +16,8 @@ const Student = db.define("student", {
     type: Sequelize.STRING,
     allowNull: false
   }
+
+  // MISSING THINGS
 });
 
 // Export the student model

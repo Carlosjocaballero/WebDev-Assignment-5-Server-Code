@@ -21,6 +21,8 @@ const Campus = db.define("campus", {
   description: {
     type: Sequelize.STRING,
   }
+
+  // MISSIGN IMAGE URL
 });
 
 // Export the campus model
